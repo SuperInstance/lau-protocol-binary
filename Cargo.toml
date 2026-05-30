@@ -1,0 +1,8 @@
+[package]
+name = "lau-protocol-binary"
+version = "0.1.0"
+edition = "2021"
+description = "Binary wire protocol for PLATO — compact, deterministic, no serde."
+license = "MIT"
+
+[dependencies]
